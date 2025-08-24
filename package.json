@@ -1,7 +1,7 @@
 {
   "homepage": "https://hanu-ram.github.io/surajna-legal-bloom",
   "name": "surajna-legal-bloom",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
