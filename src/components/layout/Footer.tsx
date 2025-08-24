@@ -27,6 +27,12 @@ const Footer = () => {
             <li>Company Registration</li>
             <li>Trademark Registration</li>
             <li>Corporate Compliance</li>
+            <li>Startup Launch & Legal Setup</li>
+            <li>Accounting & Reporting</li>
+            <li>Taxation & Compliance</li>
+            <li>Strategic Financial Advisory</li>
+            <li>Global Expansion Support</li>
+            <li>Intellectual Property Protection</li>
           </ul>
         </div>
         <div>

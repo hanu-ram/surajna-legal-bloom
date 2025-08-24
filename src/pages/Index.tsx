@@ -14,6 +14,7 @@ const Index = () => {
         <title>Surajna Group – Company Registration & Trademark Services</title>
         <meta name="description" content="Company Registration in India, Trademark Registration Services, and Corporate Compliance. Surajna Group is your trusted partner." />
         <link rel="canonical" href={canonical} />
+        <link rel="icon" href="/lovable-uploads/5f0548f5-4c38-4bd1-8a9d-75d0727eecec.png" />
       </Helmet>
 
       {/* Hero */}
@@ -26,14 +27,14 @@ const Index = () => {
           <img
             src="/lovable-uploads/5f0548f5-4c38-4bd1-8a9d-75d0727eecec.png"
             alt="Surajna Group logo"
-            className="mb-6 h-16 w-16 object-contain"
+            className="h-28 max-w-28 object-contain"
             loading="lazy"
           />
           <h1 className="font-display text-4xl md:text-6xl leading-tight max-w-4xl">
             Surajna Group – Your Partner in Business Growth & Protection
           </h1>
           <p className="mt-4 max-w-2xl text-muted-foreground">
-            From Company Registration to Trademark Protection – We Handle It All
+            From startup launch to global expansion, we handle your legal, financial, and strategic needs so you can focus on building your vision. No paperwork headaches. No compliance chaos. Just seamless growth.
           </p>
           <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
             <Link to="/contact">

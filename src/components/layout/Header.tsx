@@ -8,7 +8,7 @@ const Header = () => {
           <img
             src="/lovable-uploads/5f0548f5-4c38-4bd1-8a9d-75d0727eecec.png"
             alt="Surajna Group logo"
-            className="h-8 w-8 object-contain"
+            className="h-10 w-10 object-contain"
             loading="lazy"
           />
           <span className="font-display text-xl">Surajna Group</span>
